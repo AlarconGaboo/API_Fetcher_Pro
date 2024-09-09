@@ -1,0 +1,47 @@
+alarc@YoshiminGabo MINGW64 ~/OneDrive/Escritorio/PRACTIANDO HTML/MODULO6/SESION4-M6 (master)
+$ mkdir proyecto-pokemon
+
+alarc@YoshiminGabo MINGW64 ~/OneDrive/Escritorio/PRACTIANDO HTML/MODULO6/SESION4-M6 (master)
+$ cd proyecto-pokemon
+
+alarc@YoshiminGabo MINGW64 ~/OneDrive/Escritorio/PRACTIANDO HTML/MODULO6/SESION4-M6/proyecto-pokemon (master)
+$ npm init -y
+Wrote to C:\Users\alarc\OneDrive\Escritorio\PRACTIANDO HTML\MODULO6\SESION4-M6\proyecto-pokemon\package.json:
+
+{
+  "name": "proyecto-pokemon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
+
+
+
+alarc@YoshiminGabo MINGW64 ~/OneDrive/Escritorio/PRACTIANDO HTML/MODULO6/SESION4-M6/proyecto-pokemon (master)
+$ npm install axios
+
+added 9 packages, and audited 10 packages in 1s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+alarc@YoshiminGabo MINGW64 ~/OneDrive/Escritorio/PRACTIANDO HTML/MODULO6/SESION4-M6/proyecto-pokemon (master)
+$ nano pokemonList.json
+
+alarc@YoshiminGabo MINGW64 ~/OneDrive/Escritorio/PRACTIANDO HTML/MODULO6/SESION4-M6/proyecto-pokemon (master)
+$ nano apiUrls.json
+
+alarc@YoshiminGabo MINGW64 ~/OneDrive/Escritorio/PRACTIANDO HTML/MODULO6/SESION4-M6/proyecto-pokemon (master)
+$ nano index.js
+
+alarc@YoshiminGabo MINGW64 ~/OneDrive/Escritorio/PRACTIANDO HTML/MODULO6/SESION4-M6/proyecto-pokemon (master)
+$
